@@ -104,6 +104,7 @@
             <li class="treeview">
               <a href="#">
                 <i class="fa fa-users"></i>
+                <span>LOLEKI</span>
                 <span>Użytkownicy</span>
                 <span class="pull-right-container">
                   <i class="fa fa-angle-left pull-right"></i>
