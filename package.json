@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "admin-lte": "^2.3.6",
+    "bootstrap-less": "^3.3.8",
+    "bootstrap-sass": "^3.3.7",
+    "browser-sync": "^2.18.8",
+    "browsersync": "0.0.1-security",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "icheck": "^1.0.2",
+    "ionicons": "^3.0.0",
+    "jquery": "^3.1.0",
+    "laravel-elixir": "^6.0.0-9",
+    "laravel-elixir-vue-2": "^0.2.0",
+    "laravel-elixir-webpack-official": "^1.0.2",
+    "lodash": "^4.16.2",
+    "toastr": "^2.1.2",
+    "vue": "^2.0.1",
+    "vue-resource": "^1.0.3"
+  },
+  "dependencies": {
+    "instantsearch.js": "^1.11.4"
+  }
+}
